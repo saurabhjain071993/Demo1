@@ -1,0 +1,1 @@
+db2exfmt -d sample -1 -o C:\Users\saurabh\Desktop\query.sql.exfmt
